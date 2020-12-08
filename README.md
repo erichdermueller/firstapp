@@ -1,0 +1,2 @@
+# firstapp
+anfang mit go
